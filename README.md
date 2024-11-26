@@ -15,7 +15,7 @@
 #### So making this app granted me the opportunity to see the tuco-tuco once more and I hope it can raise awareness of all endangered species!
 
 ---
-
+#### - *Technologies used: SwiftUI, Combine and AVFoundation*
 #### - *Checkout the iPhone version available on AppStore: <a href="https://apps.apple.com/br/app/the-tuco-tuco/id6481862059?l=en-GB">Tuco-Tuco</a>*
 #### - *For more information access this link: <a href="https://www.wwdcscholars.com/s/804C110F-384C-4679-A1A8-34E42B641DA4/2024">WWDC Scholars</a>*
 
