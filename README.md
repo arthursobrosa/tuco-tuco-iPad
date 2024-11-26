@@ -1,6 +1,6 @@
 # WWDC 2024 - Swift Student Challenge winner project
 
-#### This project was made by me on February 2024 and submited to the <a href="https://developer.apple.com/swift-student-challenge/">Swift Student Challenge</a>, a competition held by *Apple* that awards 350 Swift students around the world
+#### This project was made by me on February 2024 and submited to the <a href="https://developer.apple.com/swift-student-challenge/">Swift Student Challenge</a>, a competition held by *Apple* that awards 350 Swift students around the world!
 
 ---
 
